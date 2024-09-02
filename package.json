@@ -1,0 +1,14 @@
+{
+  "name": "olympics-basketball-simulation",
+  "version": "1.0.0",
+  "description": "Simulation of basketball tournament for the Olympics",
+  "main": "index.js",
+  "scripts": {
+    "start": "node knockoutStage.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=20.17.0"
+  }
+}
